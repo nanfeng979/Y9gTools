@@ -1,6 +1,3 @@
-# Y9gTools
-Y9g工具集
-
 ```markdown
 # TypeScript 类名检查与替换脚本
 
